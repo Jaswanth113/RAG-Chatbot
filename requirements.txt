@@ -6,5 +6,6 @@ langchain
 langchain-huggingface
 langchain-community
 langchain-core
+sentence-transformers
 faiss-cpu
 langchain-groq
